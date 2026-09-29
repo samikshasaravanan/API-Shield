@@ -22,4 +22,4 @@ Project status: Backend modules in progress
 
 Install dependencies with: pip install -r requirements.txt
 
-Project status: In development
+Project status: Testing phase started
