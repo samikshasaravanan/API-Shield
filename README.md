@@ -16,7 +16,7 @@ Frontend: React + Vite + Tailwind
 Backend: FastAPI
 Database: SQLite / PostgreSQL
 
-Status: In development
+Project status: Backend modules in progress
 
 ## Setup
 
