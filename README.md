@@ -16,10 +16,8 @@ Frontend: React + Vite + Tailwind
 Backend: FastAPI
 Database: SQLite / PostgreSQL
 
-Project status: Backend modules in progress
-
 ## Setup
 
 Install dependencies with: pip install -r requirements.txt
 
-Project status: In development
+Project status: Backend modules in progress
