@@ -20,3 +20,7 @@ Database: SQLite / PostgreSQL
 (Setup instructions coming soon...)
 
 Status: In development
+
+## Setup
+
+Install dependencies with: pip install -r requirements.txt
